@@ -1,0 +1,2 @@
+# ChessGNN
+Chess using GNN
