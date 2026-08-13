@@ -1,0 +1,32 @@
+
+[Event "CCRL Blitz"]
+[Site "CCRL"]
+[Date "2020.01.05"]
+[Round "1.1.5"]
+[White "Pedone 2.0 64-bit"]
+[Black "Hannibal 1.7 64-bit"]
+[Result "1/2-1/2"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "5.e3"]
+[PlyCount "214"]
+[WhiteElo "3189"]
+[BlackElo "3125"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 Nf6 5. Nf3 c5 6. Be2 dxc4 7. O-O Nc6 8. dxc5
+Bxc5 9. Qxd8+ Kxd8 10. e4 a6 11. Bxc4 b5 12. Be2 Bb7 13. e5 Nd7 14. Rd1 Ke7 15.
+Bf4 Rhc8 16. h3 h6 17. Bg3 Na5 18. Rac1 Rab8 19. Nd2 Ba7 20. b3 Nc6 21. Nf3 Nb4
+22. Rd6 Nb6 23. Rd2 Rc5 24. a3 Rbc8 25. Bh4+ f6 26. exf6+ gxf6 27. Bg3 Rxc3 28.
+Rxc3 Rxc3 29. Bd6+ Ke8 30. Bxb4 Rxb3 31. Bd3 Nd5 32. Bg6+ Kd7 33. Nd4 Bxd4 34.
+Rxd4 a5 35. Bf8 e5 36. Rg4 Bc6 37. Bh7 Kd8 38. Bd6 Rc3 39. Bf5 Ne7 40. Be6 Rd3
+41. Bc5 Bd7 42. Bxd7 Rxd7 43. Bb6+ Ke8 44. Bxa5 Nc6 45. Bb6 Rd3 46. Rg8+ Kf7
+47. Ra8 h5 48. Kf1 Rd1+ 49. Ke2 Ra1 50. Rc8 Ra2+ 51. Ke1 Ne7 52. Rc5 Ra1+ 53.
+Kd2 Ke6 54. Rxb5 Ra2+ 55. Ke1 Rxa3 56. Ra5 Rb3 57. Be3 Nd5 58. Bc1 Nb4 59. Kd2
+Nc6 60. Ra6 Kd5 61. Ra8 Rb4 62. Rf8 Ke6 63. Rh8 h4 64. Kc3 Kd5 65. Be3 Rc4+ 66.
+Kd3 Nb4+ 67. Ke2 Ke6 68. Re8+ Kf5 69. Rd8 Rc2+ 70. Kf1 Nc6 71. Rh8 Rc4 72. Rh5+
+Kg6 73. Rh6+ Kg7 74. Rh5 Nb4 75. Ke2 Nd5 76. Kf3 Kg6 77. Rh8 Kf7 78. Ra8 Rb4
+79. Bc5 Rf4+ 80. Ke2 Rc4 81. Be3 Rb4 82. Ra7+ Ke6 83. Bd2 Rb2 84. Kd1 Rb1+ 85.
+Bc1 Rb8 86. Ke2 Nc3+ 87. Kd3 Nb5 88. Ra5 Rd8+ 89. Ke3 Nd4 90. Bb2 Nc2+ 91. Ke2
+Nb4 92. Bc3 Nd5 93. Bd2 Rg8 94. Ra6+ Kf5 95. Kf1 Rb8 96. Ra7 Rb1+ 97. Ke2 Rb2
+98. Ke1 Nf4 99. Bxf4 Kxf4 100. Rh7 Kg5 101. Kf1 f5 102. Rg7+ Kf6 103. Rg8 Rb5
+104. Rf8+ Ke6 105. Rh8 Rb1+ 106. Ke2 Rb2+ 107. Kf3 Rb4 1/2-1/2
